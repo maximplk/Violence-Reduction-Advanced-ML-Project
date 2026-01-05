@@ -1,4 +1,4 @@
-# Violence Reduction – Machine Learning Project
+# Violence Reduction – Advanced Machine Learning Project
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/67fec910-ef02-4237-a9fe-456833f35603" />
 
 This project applies supervised and unsupervised machine learning techniques to analyze and predict violent incidents in the city of Chicago, with a specific focus on distinguishing fatal from non-fatal events.
